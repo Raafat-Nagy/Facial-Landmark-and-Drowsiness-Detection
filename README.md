@@ -30,25 +30,25 @@ The system detects a human face from a video stream, identifies key facial landm
 ```
 
 Facial-Landmark-and-Drowsiness-Detection/
-├── 1.Face\_Detection/
-│   └── Face\_Detection\_Dlib.ipynb
+├── 1.Face_Detection/
+│   └── Face_Detection_Dlib.ipynb
 │
-├── 2.Face\_Landmark\_Detection/
-│   ├── 1.Face\_Landmark\_Detection\_Dlib.ipynb
-│   ├── 2.Face\_Landmark\_Detection\_Dlib\_Class.ipynb
-│   └── face\_landmark\_detector.py
+├── 2.Face_Landmark_Detection/
+│   ├── 1.Face_Landmark_Detection_Dlib.ipynb
+│   ├── 2.Face_Landmark_Detection_Dlib_Class.ipynb
+│   └── face_landmark_detector.py
 │
-├── 3.Drowsiness\_Detection/
-│   ├── Drowsiness\_Detection\_with\_EAR.ipynb
-│   ├── drowsiness\_detection.py
-│   └── face\_landmark\_detector.py
+├── 3.Drowsiness_Detection/
+│   ├── Drowsiness_Detection_with_EAR.ipynb
+│   ├── drowsiness_detection.py
+│   └── face_landmark_detector.py
 │
 ├── images/
 │   └── faces.jpg
 │
 ├── models/
-│   ├── mmod\_human\_face\_detector.dat
-│   └── shape\_predictor\_68\_face\_landmarks.dat
+│   ├── mmod_human_face_detector.dat
+│   └── shape_predictor_68_face_landmarks.dat
 │
 ├── requirements.txt
 └── README.md
