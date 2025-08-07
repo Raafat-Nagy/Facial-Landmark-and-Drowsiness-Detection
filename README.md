@@ -25,6 +25,16 @@ The system detects a human face from a video stream, identifies key facial landm
 
 ---
 
+## Demo Video
+
+[Watch on YouTube](https://youtu.be/aCKkCBUu3DM)
+
+[![Watch the video](https://img.youtube.com/vi/aCKkCBUu3DM/hqdefault.jpg)](https://youtu.be/aCKkCBUu3DM)
+
+<sub> *The demo shows real-time facial landmark tracking and drowsiness detection in action.*</sub>
+
+---
+
 ## Project Structure
 
 ```
@@ -49,6 +59,9 @@ Facial-Landmark-and-Drowsiness-Detection/
 ├── models/
 │   ├── mmod_human_face_detector.dat
 │   └── shape_predictor_68_face_landmarks.dat
+│
+├── output_video/
+│   └── Drowsiness_Detection.mp4
 │
 ├── requirements.txt
 └── README.md
