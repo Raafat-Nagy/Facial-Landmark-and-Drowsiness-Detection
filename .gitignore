@@ -1,3 +1,7 @@
+# ignore images and models in the root directory
+images/
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
